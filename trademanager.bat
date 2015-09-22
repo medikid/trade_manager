@@ -28,8 +28,6 @@ echo Using default config.properties from /config dir.)
 
 rem set the timezone to be your markets zone so NYSE=America/New_York London=Europe/London
 SET TIMEZONE=America/New_York
--Duser.timezone=America/New_York
-trade.tws.timezone=America/Los_Angeles
 
 echo Path=%PATH%
 echo ClassPath=%CLASSPATH%
